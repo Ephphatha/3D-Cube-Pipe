@@ -1,0 +1,2 @@
+SDL version something is used as the window framework, download a copy of the library from http://www.libsdl.org/download-2.0.php
+Some libraries from boost are used, download a copy from http://www.boost.org/

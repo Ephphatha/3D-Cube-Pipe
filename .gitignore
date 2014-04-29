@@ -19,3 +19,11 @@
 *.exe
 *.out
 *.app
+*.ncb
+*.user
+Debug
+Release
+Thumbs.db
+*.suo
+/Documentation/latex
+/Documentation/html
